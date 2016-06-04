@@ -1,3 +1,4 @@
 # C
-Programs written in C
-My repository for programs written in C language. 
+Programs written by me in C language. 
+
+
