@@ -33,9 +33,11 @@ for(i=0;i<n-1;i++)
   	temp = gcd(temp,num[i+1]);
 	
 }
-printf("GCD is %d\n",temp);
- 
+	printf("GCD is %d\n",temp);
+	free(num); 
+
 return 0;
+
 }
 
 int gcd(int x,int y)
