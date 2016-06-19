@@ -1,3 +1,10 @@
+/* A c program to sort characters in string using stdlib.h library function qsort and custom compare function 
+by -
+Dewang Lahariya
+
+*/ 
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
