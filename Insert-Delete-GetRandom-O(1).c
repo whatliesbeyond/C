@@ -28,7 +28,7 @@ typedef struct {
     int val;
 } RandomizedSet;
 
-RandomizedSet Data[SIZE];  //An Dictionary of type RandomizedSet that holds the item val
+RandomizedSet Data[SIZE];  //A Dictionary of type RandomizedSet that holds the item val
 RandomizedSet hashTable[SIZE]; //A cache that stores the item vals of Dictionary and keeps track of latest insertion/removal
 
 //hashcode to find key
