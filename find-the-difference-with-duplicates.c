@@ -1,6 +1,6 @@
 
 /*===================================================================================================
- Problem 389 from leetcode.com: Insert Delete GetRandom O(1)
+ Problem 389 from leetcode.com: Find The Difference
  
 Given two strings s and t which consist of only lowercase letters.
 
